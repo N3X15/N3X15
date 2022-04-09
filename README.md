@@ -1,6 +1,6 @@
 ## Game Developer for Hire
 
-Hi, I'm Rob, a 34-year-old guy (he/him) who likes reverse-engineering, interpreters, and modding, and have worked professionally on popular game titles like Kerbal Space Program and From the Depths. 
+Hi, I'm Rob, a 34-year-old guy (he/him) living in Newcastle, WA who likes reverse-engineering, interpreters, and modding, and have worked professionally on popular game titles like Kerbal Space Program and From the Depths. **I am not able to relocate, for a number of reasons.**
 
 Here you can find some of my projects, although I am slowly migrating to [my gitlab account](https://gitlab.com/N3X15), since they support more features.
 
@@ -22,6 +22,6 @@ I am currently learning:
 
 ## Contact Information
 
-[My website and blog](https://nexisonline.net) provides a variety of ways to reach me.  Please do not contact me if you do so as a marketer, realtor, or canvasser.
+[My website and blog](https://nexisonline.net) provides a variety of ways to reach me.  **Please do not contact me if you do so as a marketer, realtor, or canvasser.**
 
-You can also find my current resume there.
+You can also find my current resumé there.
