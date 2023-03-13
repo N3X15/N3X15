@@ -1,8 +1,8 @@
-## Game Developer for Hire
+## Game Developer
 
-Hi, I'm Rob, a 34-year-old guy (he/him) living in Newcastle, WA who likes reverse-engineering, interpreters, and modding, and have worked professionally on popular game titles like Kerbal Space Program and From the Depths. **I am not able to relocate, for a number of reasons.**
+Hi, I'm Rob, a 34-year-old guy (he/him) living in Newcastle, WA who likes reverse-engineering, interpreters, and modding, and have worked professionally on popular game titles like Kerbal Space Program and From the Depths. I am currently working on [ChilloutVR]([https:](https://store.steampowered.com/app/661130/ChilloutVR/) with Alpha Blend Interactive.
 
-Here you can find some of my projects, although I am slowly migrating to [my gitlab account](https://gitlab.com/N3X15), since they support more features.
+Here you can find some of my open-source projects, although I am slowly migrating to [my gitlab account](https://gitlab.com/N3X15), since they support more features.
 
 ## Current Projects
 
