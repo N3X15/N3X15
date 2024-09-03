@@ -1,12 +1,11 @@
 ## Game Developer
 
-Hi, I'm Rob, a 34-year-old guy (he/him) living in Newcastle, WA who likes reverse-engineering, interpreters, and modding, and have worked professionally on popular game titles like Kerbal Space Program and From the Depths. I am currently working on [ChilloutVR](https://store.steampowered.com/app/661130/ChilloutVR/) with Alpha Blend Interactive.
+Hi, I'm Rob, a 35-year-old guy (he/him) living in Newcastle, WA who likes reverse-engineering, interpreters, and modding, and have worked professionally on popular game titles like Kerbal Space Program and From the Depths. I am currently working on [ChilloutVR](https://store.steampowered.com/app/661130/ChilloutVR/) with Alpha Blend Interactive.
 
 Here you can find some of my open-source projects, although I am slowly migrating to [my gitlab account](https://gitlab.com/N3X15), since they support more features.
 
 ## Current Projects
 
- * [BYONDTools](https://gitlab.com/N3X15/ByondTools) @ GitLab.com - BYOND game engine source code analysis toolkit
  * [pyCSBinaryWriter](https://gitlab.com/N3X15/pycsbinarywriter) @ GitLab.com - API for interacting with .NET-generated binary structures in Python
  * [BuildTools](https://gitlab.com/N3X15/python-build-tools) @ GitLab.com - My own shoddy toolbag, includes custom dependency-resolving buildchain inspired by Tup.
 
