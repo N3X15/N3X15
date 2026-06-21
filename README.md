@@ -6,8 +6,7 @@ Here you can find some of my open-source projects, although I am slowly migratin
 
 ## Current Projects
 
- * [pyCSBinaryWriter](https://gitlab.com/N3X15/pycsbinarywriter) @ GitLab.com - API for interacting with .NET-generated binary structures in Python
- * [BuildTools](https://gitlab.com/N3X15/python-build-tools) @ GitLab.com - My own shoddy toolbag, includes custom dependency-resolving buildchain inspired by Tup.
+ * [pyCSBinaryWriter](https://gitlab.com/N3X15/pycsbinarywriter) @ GitLab.com - API for interacting with .NET-generated binary structures in Python - Currently adding binary interpretation of Decimals.
 
 I also work on a bunch of other projects using alts.
 
